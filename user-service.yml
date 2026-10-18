@@ -3,4 +3,4 @@
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: sa
+    password: '{cipher}3d868832022765f779c32563b984d95a6c29d28df69a6e55ff8f51f778863103'
