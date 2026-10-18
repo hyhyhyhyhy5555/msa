@@ -1,7 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: this is a defalut secret from config service
+  secret: this is a defalut secret from config service - momo
 
 gateway:
-  ip: 192.168.0.100
-  
+  ip: 11.11.11.11
