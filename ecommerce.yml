@@ -3,4 +3,4 @@ token:
   secret: this is a defalut secret from config service - bus-refresh
 
 gateway:
-  ip: 11.11.11.11
+  ip: 1100.11.11.11
