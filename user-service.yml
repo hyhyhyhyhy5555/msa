@@ -3,4 +3,5 @@
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: '{cipher}3d868832022765f779c32563b984d95a6c29d28df69a6e55ff8f51f778863103'
+    #password: '{cipher}3d868832022765f779c32563b984d95a6c29d28df69a6e55ff8f51f778863103'
+    password: '{cipher}AYAvOglvMu0OajqEgLVnnAsfQP/4C9MO4RAt2vOdh4J4Glgqnjt9XPXahhEwWWEl5dh9MSnbV6Tkh/F+EKg5QS0SdqvZ3AAOypXUY0gkdyoqxu6j9300cTfBQyY8ixRtoco0lYQ6/jNaZewBasHmAJ0SVmrkhEfDb9KYHTDOuTC2Q4EqOHpFCzfhBvgFwJAQP0zfQ+l6VMqg6U8a/zqV/is8agkg5OyXNbJ0RrQ/3tSNlhpZFcu91JmB0leW3TJtG97lJKdrgULCR29OjQWdFb9vrQap/hT4axdcc8TOeru2inPnoANSME1Zjz86YfXjfDVktv46FaCmF15DzX+M4HbjQJv1kLB5JSz3c48OXd7C6c7nzICNwp9a5VPSXKh8we4J0M0wVRhl1VDLvNLtjKmOS+0uFa+EPVuEluGT24bZyfmAsG6A+EsOF6NghtQupIpDha/mfxqfPkE31dVS7XIgToz75+a1mmp6INgrvcgxuoBVCTx1sHss7VAI/uxbKKrFVtkbYp0TbRTaZh4whVDKP6BNJpFY2NpnPRh6+6osrQ=='
