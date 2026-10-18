@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: this is a development secret from config service
+  secret: this is a development secret from config service github- repo- dev
 
 gateway:
   ip: 192.168.0.100

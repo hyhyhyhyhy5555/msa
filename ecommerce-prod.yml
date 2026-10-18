@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: this is a defalut secret from config service
+  secret: this is a defalut secret from config service github- repo- prod
 
 gateway:
   ip: 192.168.0.100
