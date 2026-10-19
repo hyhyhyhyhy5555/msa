@@ -9,4 +9,5 @@ datasource:
 order-service:
  # url: http://localhost:8000/order-service/%s/orders # 하드코딩
   url: http://order-service/order-service/%s/orders # 유레카에 등록된 서비스 명 활용
-  
+  exception: 
+    order-is-empty: User's Order is Empty
